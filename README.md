@@ -4,7 +4,11 @@ Annoy yourself with Zizek quotes.
 
 ## Installation
 
-First, clone this repository. Then, make the script executable:
+This script requires espeak to run. First, install it:
+
+$ sudo apt-get install espeak
+
+Clone this repository. Then, make the script executable:
 
 $ chmod +x zizek.py
 
