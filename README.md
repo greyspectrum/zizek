@@ -6,12 +6,12 @@ Annoy yourself with Zizek quotes.
 
 This script requires espeak to run. First, install it:
 
-$ sudo apt-get install espeak
+`$ sudo apt-get install espeak`
 
 Clone this repository. Then, make the script executable:
 
-$ chmod +x zizek.py
+`$ chmod +x zizek.py`
 
 Then, run it:
 
-$ python zizek.py
+`$ python zizek.py`
